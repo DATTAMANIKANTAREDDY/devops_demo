@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "wellcome to DIET school" );
+        System.out.println( "arey enti ra edi........." );
     }
 }
